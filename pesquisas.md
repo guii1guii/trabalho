@@ -1,4 +1,7 @@
 # 1. Aspectos naturais de um bioma (flora/flora) - Samuel Leandro
+A Amazônia é um bioma de proporções magníficas, abrangendo uma vasta região na América do Sul. Conhecida como a floresta tropical dos pulmões do mundo, a Amazônia é um dos ecossistemas mais ricos e diversificados do planeta. Começando pela flora, a Amazônia é o lar de uma variedade deslumbrante de espécies vegetais. Estima-se que existam mais de 40.000 espécies de plantas na região, algumas das quais são exclusivas desse bioma.</br>
+A vegetação amazônica também apresenta uma incrível variedade de epífitas, plantas que vivem sobre outras plantas sem prejudicá-las. Além disso, a Amazônia é o lar de inúmeras plantas medicinais, cujos segredos ainda estão sendo descobertos pela ciência. A fauna da Amazônia é igualmente fascinante e diversa. A interdependência entre a flora e a fauna da Amazônia é evidente.</br>
+As plantas fornecem abrigo e alimento para os animais, enquanto muitos animais desempenham um papel vital na dispersão de sementes e no equilíbrio dos ecossistemas. Esse intricado equilíbrio ecológico é uma das características marcantes da Amazônia. No entanto, a Amazônia enfrenta sérios desafios ambientais, como o desmatamento, a exploração ilegal de recursos naturais e as mudanças climáticas.</br>
 # 2. Impactos Ambientais - Ian de Araújo
  - PESQUISA EXPANDIDA</br>
 *Desmatamento na Amazônia*</br>
