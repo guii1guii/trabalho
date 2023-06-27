@@ -1,5 +1,11 @@
 https://shre.ink/lin-pesquisas
+# * PESQUISAS
+
 # 1. Aspectos naturais de um bioma (flora/flora) - Samuel Leandro
+A Amazônia é um bioma de proporções magníficas, abrangendo uma vasta região na América do Sul. Conhecida como a floresta tropical dos pulmões do mundo, a Amazônia é um dos ecossistemas mais ricos e diversificados do planeta. A vegetação amazônica também apresenta uma incrível variedade de epífitas, plantas que vivem sobre outras plantas sem prejudicá-las. Além disso, a Amazônia é o lar de inúmeras plantas medicinais, cujos segredos ainda estão sendo descobertos pela ciência. As plantas fornecem abrigo e alimento para os animais, enquanto muitos animais desempenham um papel vital na dispersão de sementes e no equilíbrio dos ecossistemas.
+
+---------
+
 A Amazônia é um bioma de proporções magníficas, abrangendo uma vasta região na América do Sul. Conhecida como a floresta tropical dos pulmões do mundo, a Amazônia é um dos ecossistemas mais ricos e diversificados do planeta. Começando pela flora, a Amazônia é o lar de uma variedade deslumbrante de espécies vegetais. Estima-se que existam mais de 40.000 espécies de plantas na região, algumas das quais são exclusivas desse bioma.
 
 A vegetação amazônica também apresenta uma incrível variedade de epífitas, plantas que vivem sobre outras plantas sem prejudicá-las. Além disso, a Amazônia é o lar de inúmeras plantas medicinais, cujos segredos ainda estão sendo descobertos pela ciência. A fauna da Amazônia é igualmente fascinante e diversa. A interdependência entre a flora e a fauna da Amazônia é evidente.
@@ -36,14 +42,44 @@ Atividade das madeireiras: muitas empresas que utilizam madeira para diversos fi
 
 Atividade pecuária: a expansão das atividades voltadas para a criação de animais é um dos principais motivos do desmatamento na Amazônia. Dessa maneira, muitas empresas desmatam o local para expandir o negócio.
 # 3. Tecnologias e projetos desenvolvidos pelas populações locais para gerar renda valorizando a biodiversidade local - Bernardo de Britto
-# 4. Profissões relacionadas aos aspectos naturais e históricos dessas populações - Guilherme Barcellos
-Existem muitas profissões relacionadas aos aspectos naturais e históricos das populações do bioma amazônia. Algumas delas incluem pesquisadores, cientistas, biólogos, antropólogos, historiadores e arqueólogos que estudam a fauna, flora e história da região.
 
-Além disso, existem também profissões relacionadas às populações tradicionais da Amazônia, como seringueiros, piaçabeiros, peconheiros, pescadores artesanais e agricultores familiares que dependem diretamente da extração de recursos naturais para sua subsistência. Essas populações têm conhecimentos tradicionais que contribuem para a conservação do bioma e para a manutenção dos serviços ecossistêmicos.
+# 4. Profissões relacionadas aos aspectos naturais e históricos dessas populações - Guilherme Barcellos
+Muitas profissões relacionadas aos aspectos naturais atuam na busca de fauna e flora locais e as relacionadas aos aspectos históricos, estudam a formação socio-histórica da Amazônia, destacando o lugar ocupado pelas comunidades ribeirinhas e por outros povos amazônicos, bem como problematizam o uso do território e a inserção da região amazônica no mundo globalizado. Algumas delas incluem historiadores, antropólogos, sociólogos e arqueólogos.
+
+Além disso, existem também profissões relacionadas às populações tradicionais da Amazônia, como seringueiros, piaçabeiros, peconheiros, pescadores artesanais e agricultores familiares que dependem diretamente da extração de recursos naturais para sua subsistência. Essas populações têm conhecimentos tradicionais que contribuem para a conservação do bioma e para a manutenção dos serviços ecossistêmicos da região.
 # 5. Aspectos culturais (danças, comidas típicas) - Arthur Silva
 A cultura amazonense divide-se entre suas raízes indígenas e traços da colonização europeia. O estado conta, desde 1918, com a Academia Amazonense de Letras, que fortalece suas riquezas culturais. Na capital, destaca-se o Teatro Amazonas, considerado patrimônio cultural e arquitetônico da região, tombado em 1966.
 A cultura amazônica é formada por um híbrido linguístico entre a língua indígena, a europeia e a africana, que compõe e demonstra a característica própria da região como um elemento de formação da identidade amazônica.
 A Floresta Amazônica é a maior floresta equatorial do mundo. Localiza-se na América do Sul, com a maior parte no Brasil, e abriga milhões de espécies de animais e de plantas. A Floresta Amazônica é a maior e mais diversa floresta equatorial do mundo. Floresta Amazônica é a maior floresta equatorial do mundo.
+
+  PRINCIPAIS DANÇAS:
+
+.desfeiteira;
+.macambira;
+.lundu marajoara;
+.marujada;
+.dança do siriá;
+.samba do cacete;
+.retribuo;
+.jacundá;
+Na Amazônia, algumas danças estão integradas ao imaginário de seu povo, tornando-as populares na região. Marujada é uma das danças típicas do Acre. Como nas brincadeiras de quadrilha, narra uma estória, dançada por dois cordões de marujos que estão navegando em alto-mar. Em Rio Branco a Marujada é uma referência.
+
+COMIDAS TÍPICAS:
+
+Pato no tucupi. Pato no tucupi é, como o nome diz, um pato elaborado com tucupi e também com jambu. ...
+
+.Tucupi. O tucupi é extraído da raiz da mandioca, que é descascada, ralada e espremida. ...
+
+.Tacacá À primeira vista nos parece estranho. ...
+
+.Jambu. ...
+
+.Tambaqui. ...
+
+.Pirarucu. ...
+
+.Tucumã
+      A culinária amazônica é basicamente indígena, apesar de possuir também outras influências. Tem sabores únicos e possui como características primordiais a utilização de peixes, frutas e hortaliças oriundas das matas e dos rios da região.
 # 6. Aspectos culturais (festas populares, folclore) - Samuel Schneider / falta resumir mais, está enorme
 Folclore : 
 
@@ -97,3 +133,8 @@ Os principais escritores amazonenses são:
 9- Dalcídio Jurandir (1909-1979): um dos maiores nomes da literatura amazônica no século XX. Escreveu romances de inigualável valor histórico. Da nome ao principal prêmio literário do Estado do Pará.
 
 Curiosidade: o primeiro escritor amazonense foi Bento de Figuereido Tenreiro Aranha
+
+# * MINECRAFT
+- Aspectos naturais do bioma
+- Impactos ambientais
+- 
