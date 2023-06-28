@@ -142,4 +142,7 @@ Curiosidade: o primeiro escritor amazonense foi Bento de Figuereido Tenreiro Ara
 - Aspectos naturais do bioma
 - Impactos ambientais
 - Aspectos culturais
-* Rio e nascente
+
+* Cabanas
+* Árvores
+* Animais terrestres
