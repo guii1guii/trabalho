@@ -83,7 +83,7 @@ Pato no tucupi. Pato no tucupi é, como o nome diz, um pato elaborado com tucupi
 .Pirarucu. ...
 
 .Tucumã
-      A culinária amazônica é basicamente indígena, apesar de possuir também outras influências. Tem sabores únicos e possui como características primordiais a utilização de peixes, frutas e hortaliças oriundas das matas e dos rios da região.
+A culinária amazônica é basicamente indígena, apesar de possuir também outras influências. Tem sabores únicos e possui como características primordiais a utilização de peixes, frutas e hortaliças oriundas das matas e dos rios da região.
 # 6. Aspectos culturais (festas populares, folclore) - Samuel Schneider / falta resumir mais, está enorme
 Folclore : 
 
